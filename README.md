@@ -1,6 +1,8 @@
 # GestureRecognizer
 Gesture Recognizer
 
+A gesture is tied to a single view, but a view can have multiple gestures.
+
 ``` swift
 //
 //  ViewController.swift
