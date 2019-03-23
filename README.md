@@ -4,6 +4,16 @@ A gesture recognizer is an object that will listen for the user to input a commo
 
 A gesture is tied to a single view, but a view can have multiple gestures.
 
+# Programmatic Actions
+
+Interface Builder connects controls to actions
+
+In order to connect a button to a method programmatically, you will need a reference to the button in code. Use Interface Builder to create an IBOutlet to any methods
+
+``` swift
+@IBOutlet weak var button: UIButton!
+```
+
 ``` swift
 //
 //  ViewController.swift
