@@ -1,5 +1,6 @@
 # GestureRecognizer
-Gesture Recognizer
+
+A gesture recognizer is an object that will listen for the user to input a common gesture and will call an action when the particular gesture is recognized.
 
 A gesture is tied to a single view, but a view can have multiple gestures.
 
