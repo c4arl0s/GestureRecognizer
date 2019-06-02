@@ -30,6 +30,20 @@
 }
 ```
 
+# The Multitouch Architecture
+
+# The Four Touch Notification Methods
+
+``` objective-c
+- (void)touchesBegan:(NSSet *)touches withEvent:(UIEvent *)event
+{
+    NSUInteger numTaps = [[touches anyObject] tapCount];
+    NSUInteger numTouches = [touches count];
+    // Do something here.
+}
+```
+
+
 # Another 
 
 A gesture recognizer is an object that will listen for the user to input a common gesture and will call an action when the particular gesture is recognized.
