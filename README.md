@@ -100,6 +100,8 @@ class ViewController: UIViewController {
 
 ![Screen Shot 2019-07-07 at 13 22 13](https://user-images.githubusercontent.com/24994818/60772324-4f852d80-a0ba-11e9-8206-5cfdc6fad25b.png)
 
+![Screen Shot 2019-07-07 at 1 25 05 PM](https://user-images.githubusercontent.com/24994818/60772352-c3273a80-a0ba-11e9-9fde-c48734bf1d0d.png)
+
 ``` console
 (217.5, 403.5)
 (203.5, 266.0)
